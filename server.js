@@ -32,7 +32,7 @@ app.use("/api/hotels", hotelRouter);
 app.use("/api/category", categoryRouter);
 app.use("/api/hotels", singleHotelRouter);
 app.use("/api/auth", authRouter);
-app.use("/api/wishlist")
+app.use("/api/wishlist", wishlistRouter);
 
 
 mongoose.connection.once("open", () => {
