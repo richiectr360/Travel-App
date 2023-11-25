@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richiectr360/Travel-App.git"
+    "url": "git+https://github.com/richiectr360/travel-App.git"
   },
   "keywords": [],
   "author": "Richie Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/richiectr360/Travel-App/issues"
+    "url": "https://github.com/richiectr360/travel-App/issues"
   },
-  "homepage": "https://github.com/richiectr360/Travel-App#readme",
+  "homepage": "https://github.com/richiectr360/travel-App#readme",
   "dependencies": {
     "crypto-js": "^4.2.0",
     "dotenv": "^16.3.1",
